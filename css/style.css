@@ -1,0 +1,38 @@
+.calculator-btn {
+  transition: all 0.2s ease;
+}
+
+.calculator-btn:active {
+  transform: scale(0.95);
+}
+
+.history-item {
+  transition: all 0.3s ease;
+}
+
+.history-item:hover {
+  background-color: #f3f4f6;
+}
+
+#display {
+  font-family: "Courier New", Courier, monospace;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+#history {
+  scrollbar-width: thin;
+  scrollbar-color: #c7d2fe #f5f3ff;
+}
+
+#history::-webkit-scrollbar {
+  width: 8px;
+}
+
+#history::-webkit-scrollbar-track {
+  background: #f5f3ff;
+}
+
+#history::-webkit-scrollbar-thumb {
+  background-color: #c7d2fe;
+  border-radius: 4px;
+}
