@@ -1,6 +1,7 @@
 # Calculadora com Histórico 🧮
 
-Uma calculadora web moderna, responsiva e estilosa, feita com HTML, CSS, JavaScript e TailwindCSS, que salva o histórico dos cálculos localmente no navegador.
+Uma calculadora web moderna, responsiva e estilosa, feita com HTML, CSS, JavaScript e TailwindCSS, que salva o histórico dos cálculos localmente no navegador. Isso é um teste
+
 ## ✨ Funcionalidades
 
 - Operações básicas: adição, subtração, multiplicação, divisão
